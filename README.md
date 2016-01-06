@@ -1,4 +1,4 @@
-# solutions.xor.systemc
+# solution.xor.systemc
 Solution to task xor.systemc
 
 To build the solution execute the script create_solution.sh.
