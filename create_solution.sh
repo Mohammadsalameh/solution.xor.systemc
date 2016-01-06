@@ -1,4 +1,4 @@
-source "../settings.sh"
+source "settings/settings.sh"
 export REPO_NAME="xor.systemc"
 
 ./clean.sh
