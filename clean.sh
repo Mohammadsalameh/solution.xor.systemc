@@ -1,1 +1,1 @@
-rm -rf xor.systemc
+rm -rf solution
